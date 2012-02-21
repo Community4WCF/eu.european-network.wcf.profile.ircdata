@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: de-informal.xml 1701 2011-01-16 23:01:04Z TobiasH87 $ -->
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd" languagecode="de-informal">
+	<category name="wcf.user.option">
+		<item name="wcf.user.option.category.profile.ircdata"><![CDATA[IRC Daten]]></item>
+		<item name="wcf.user.option.ircdata.server"><![CDATA[Server]]></item>
+		<item name="wcf.user.option.ircdata.server.description"><![CDATA[Wähle hier den Server, auf welchen du einen Channel registiert hast.]]></item>
+		<item name="wcf.user.option.ircdata.server.eunet"><![CDATA[European-Network (EuNet)]]></item>
+		<item name="wcf.user.option.ircdata.server.gs"><![CDATA[Gamesurge (GS)]]></item>
+		<item name="wcf.user.option.ircdata.server.eunetgs"><![CDATA[EuNet & GS]]></item>
+		<item name="wcf.user.option.ircdata.channel"><![CDATA[Channel]]></item>
+		<item name="wcf.user.option.ircdata.channel.description"><![CDATA[Gebe hier den Namen deines Channel ein. (Mehrere Channel durch ein Komma trennen.)]]></item>
+		<item name="wcf.user.option.ircdata.accountname"><![CDATA[Accountname]]></item>
+		<item name="wcf.user.option.ircdata.accountname.description"><![CDATA[Gebe hier deinen Accountnamen auf dem IRC Server ein.]]></item>
+	</category>
+    <category name="wcf.user.profile">        
+		<item name="wcf.user.profile.ircdata.server.title"><![CDATA[IRC Server]]></item>
+		<item name="wcf.user.profile.ircdata.channel.title"><![CDATA[IRC Channel]]></item>
+		<item name="wcf.user.profile.ircdata.accountname.title"><![CDATA[IRC Accountname]]></item>
+    </category>
+</language>
